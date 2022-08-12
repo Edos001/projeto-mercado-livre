@@ -1,0 +1,4 @@
+ID do Pedido,ID do Item,Descrição do produto,Custo total da ordem,Moeda utilizada,ID do Envio,Tipo de logística,Estado,Subestado,Depósito ou vendedor?,Destino,Endereço do Receptor,Endereço de Envio
+4114988927,MLB1691332725,Item test 1 Cor Branco,35,BRL,40179340134,cross_docking,ready_to_ship,ready_for_pickup,Vendedor,,Test address V Rio de Janeiro 21050900,Testing Street 1450 Porto Alegre 90570070
+4114988960,MLB1691332726,Item test 2 Cor amarelo,35,BRL,40179340302,drop_off,ready_to_ship,ready_for_pickup,Vendedor,,ZUFRIATEGUI 1523 VICENTE LOPEZ 1638,Testing Street 1450 Porto Alegre 90570070
+4114999549,MLB1691332727,Item test 3 Cor Azul,35,BRL,40179347533,fulfillment,ready_to_ship,ready_for_pickup,Depósito,,Test address E São Paulo 01029903,Testing Street 1450 Porto Alegre 90570070
